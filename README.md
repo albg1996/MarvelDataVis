@@ -3,14 +3,14 @@ CMPM 290A - UCSC
 
 Contributors:
 
-For a quick over view of the project please see: marvel-character-sceen.pdf
+For a quick over view of the project please see: __marvel-character-sceen.pdf__
 
-Here is the overview of the files I worked on
+Here is the overview of the files I worked on:
 
-characters2.csv- the csv file created to store all of the necessary data for the visualization
+__characters2.csv__- the csv file created to store all of the necessary data for the visualization
 
-project2.html- the main html file where the visualization is displayed (currently only works locally, no official website)
+__project2.html__- the main html file where the visualization is displayed (currently only works locally, no official website)
 
-marvel-character-screen.pdf- the write up for this project, contains detail on all aspects of the project
+__marvel-character-screen.pdf__- the write up for this project, contains detail on all aspects of the project
 
 
