@@ -1,7 +1,7 @@
 # MarvelDataVis
 CMPM 290A - UCSC
 
-Contributors:
+Contributors: abhirammv, albertgarcia7149, cassiaa
 
 For a quick over view of the project please see: __marvel-character-sceen.pdf__
 
