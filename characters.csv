@@ -1,0 +1,210 @@
+moviename,charactername,time
+Iron Man,Tony Stark,77.25
+The Incredible Hulk,Tony Stark,0.5
+Iron Man 2,Tony Stark,61.25
+The Avengers,Tony Stark,32.25
+Iron Man 3,Tony Stark,62.25
+Avengers: Age Of Ultron,Tony Stark,27.25
+Captain America: Civil War,Tony Stark,37.25
+Spider-Man: Homecoming,Tony Stark,8
+Thor,Thor,43.25
+The Avengers,Thor,18
+Thor: The Dark World,Thor,35
+Avengers: Age Of Ultron,Thor,13.25
+Doctor Strange,Thor,0.75
+Thor: Ragnarok,Thor,57
+Iron Man 2,Natasha Romanoff,9.25
+The Avengers,Natasha Romanoff,24.75
+Captain America: The Winter Soldier,Natasha Romanoff,24.75
+Avengers: Age Of Ultron,Natasha Romanoff,18
+Captain America: Civil War,Natasha Romanoff,12
+Thor: Ragnarok,Natasha Romanoff,0.25
+Guardians Of The Galaxy,Peter Quill,46.75
+Guardians Of The Galaxy Vol. 2,Peter Quill,35.75
+Thor,Loki,21.25
+The Avengers,Loki,21.5
+Thor: The Dark World,Loki,17.5
+Thor: Ragnarok,Loki,15
+Ant-Man,Scott Lang,50.5
+Captain America: Civil War,Scott Lang,5.5
+Iron Man,Col. James Rhodes,8.25
+Iron Man 2,Col. James Rhodes,18.75
+Iron Man 3,Col. James Rhodes,9.75
+Avengers: Age Of Ultron,Col. James Rhodes,2.5
+Captain America: Civil War,Col. James Rhodes,7.25
+Iron Man,Nick Fury,0.25
+Iron Man 2,Nick Fury,5.5
+Thor,Nick Fury,0.75
+Captain America: The First Avenger,Nick Fury,0.5
+The Avengers,Nick Fury,18.25
+Captain America: The Winter Soldier,Nick Fury,15.5
+Avengers: Age Of Ultron,Nick Fury,3
+Guardians Of The Galaxy,Rocket Raccoon,19.5
+Guardians Of The Galaxy Vol. 2,Rocket Raccoon,19.75
+Thor,Clint Barton,0.5
+The Avengers,Clint Barton,12.75
+Avengers: Age Of Ultron,Clint Barton,15
+Captain America: Civil War,Clint Barton,4.25
+Captain America: The Winter Soldier,Sam Wilson,14.25
+Avengers: Age Of Ultron,Sam Wilson,0.75
+Ant-Man,Sam Wilson,2.75
+Captain America: Civil War,Sam Wilson,10.25
+Ant-Man,Hank Pym,24.75
+Thor,Odin,11.25
+Thor: The Dark World,Odin,9
+Thor: Ragnarok,Odin,3.5
+Guardians Of The Galaxy,Yondu Udonta,6
+Guardians Of The Galaxy Vol. 2,Yondu Udonta,16.25
+Iron Man 2,Ivan Vanko,20.75
+Spider-Man: Homecoming,Adrian Toomes,19
+The Incredible Hulk,Emil Blonsky,18.5
+Doctor Strange,Baron Mordo,17.75
+Guardians Of The Galaxy Vol. 2,Ego the Living Planet,17.5
+Thor,Darcy Lewis,8.5
+Thor: The Dark World,Darcy Lewis,8.75
+Iron Man 2,Justin Hammer,16.5
+Thor: Ragnarok,Valkyrie,15.5
+Guardians Of The Galaxy,Nebula,4.5
+Guardians Of The Galaxy Vol. 2,Nebula,10.5
+Spider-Man: Homecoming,Ned Leeds,13.75
+Thor,Heimdall,4.25
+Thor: The Dark World,Heimdall,4.25
+Avengers: Age Of Ultron,Heimdall,0.5
+Thor: Ragnarok,Heimdall,4.5
+Doctor Strange,Kaecilius,12.75
+Thor: Ragnarok,Hela,12.25
+The Avengers,Maria Hill,5.5
+Captain America: The Winter Soldier,Maria Hill,3.25
+Avengers: Age Of Ultron,Maria Hill,3
+Thor,Sif,8.25
+Thor: The Dark World,Sif,3.25
+Guardians Of The Galaxy Vol. 2,Mantis,11
+Captain America: Civil War,Zemo,10.5
+Thor,Volstagg,7
+Thor: The Dark World,Volstagg,2.75
+Thor: Ragnarok,Volstagg,0.5
+Thor,Fandral,7
+Thor: The Dark World,Fandral,2
+Thor: Ragnarok,Fandral,0.5
+Iron Man 2,Howard Stark,2
+Ant-Man,Howard Stark,1
+Captain America: Civil War,Howard Stark,1.75
+Captain America: The First Avenger,Howard Stark,4
+Thor: The Dark World,Malekith the Accursed,8.75
+Captain America: The First Avenger,Dr. Abraham Erskine,8.5
+Guardians Of The Galaxy,Ronan the Accuser,7.75
+Iron Man 3,Trevor Slattery,7.5
+Doctor Strange,Wong,7
+Thor: Ragnarok,Skurge,6.75
+Iron Man 3,Harley Keener,6.25
+Thor,Frigga,2
+Thor: The Dark World,Frigga,4
+Iron Man,Raza,6
+Thor,Jasper Sitwell,1
+The Avengers,Jasper Sitwell,0.5
+Captain America: The Winter Soldier,Jasper Sitwell,4
+Captain America: Civil War,May Parker,1
+Spider-Man: Homecoming,May Parker,4
+Ant-Man,Paxton,4.5
+Guardians Of The Galaxy Vol. 2,Taserface,4.25
+Avengers: Age Of Ultron,Laura Barton,3.75
+Spider-Man: Homecoming,Tinkerer,3.75
+Guardians Of The Galaxy,Ayesha,3.5
+Captain America: The First Avenger,Steve Rogers,56.5
+The Avengers,Steve Rogers,28.25
+Captain America: The Winter Soldier,Steve Rogers,59
+Avengers: Age Of Ultron,Steve Rogers,21.75
+Ant-Man,Steve Rogers,0.5
+Captain America: Civil War,Steve Rogers,38.25
+Spider-Man: Homecoming,Steve Rogers,1
+The Incredible Hulk,Bruce Banner,51.75
+The Avengers,Bruce Banner,22.25
+Iron Man 3,Bruce Banner,0.75
+Avengers: Age Of Ultron,Bruce Banner,20
+Thor: Ragnarok,Bruce Banner,18
+Captain America: Civil War,Peter Parker,8.5
+Spider-Man: Homecoming,Peter Parker,76.25
+Doctor Strange,Dr. Stephen Strange,73.5
+Thor: Ragnarok,Dr. Stephen Strange,2.75
+Iron Man,Pepper Potts,23.25
+Iron Man 2,Pepper Potts,17.5
+The Avengers,Pepper Potts,4.5
+Iron Man 3,Pepper Potts,18
+Spider-Man: Homecoming,Pepper Potts,0.75
+Guardians Of The Galaxy,Gamora,31
+Guardians Of The Galaxy Vol. 2,Gamora,24
+Thor,Jane Foster,21
+Thor: The Dark World,Jane Foster,25
+Captain America: The First Avenger,Bucky Barnes,8
+Captain America: The Winter Soldier,Bucky Barnes,13.25
+Ant-Man,Bucky Barnes,0.25
+Captain America: Civil War,Bucky Barnes,22
+Guardians Of The Galaxy,Drax the Destroyer,18
+Guardians Of The Galaxy Vol. 2,Drax the Destroyer,16.5
+Guardians Of The Galaxy,Groot,15.5
+Guardians Of The Galaxy Vol. 2,Groot,14
+The Incredible Hulk,Betty Ross,27
+Thor,Erik Selvig,13.75
+The Avengers,Erik Selvig,3
+Thor: The Dark World,Erik Selvig,6.5
+Avengers: Age Of Ultron,Erik Selvig,0.75
+Captain America: The Winter Soldier,Wanda Maximoff,0.25
+Avengers: Age Of Ultron,Wanda Maximoff,12
+Captain America: Civil War,Wanda Maximoff,10.75
+Iron Man,Obadiah Stane,22
+Captain America: The First Avenger,Peggy Carter,17.25
+Captain America: The Winter Soldier,Peggy Carter,2.25
+Avengers: Age Of Ultron,Peggy Carter,0.25
+Ant-Man,Peggy Carter,0.75
+Iron Man,Agent Phil Coulson,3.75
+Iron Man 2,Agent Phil Coulson,2
+Thor,Agent Phil Coulson,4
+The Avengers,Agent Phil Coulson,9
+Iron Man,Happy Hogan,1.25
+Iron Man 2,Happy Hogan,4.25
+Iron Man 3,Happy Hogan,6.25
+Spider-Man: Homecoming,Happy Hogan,6
+The Incredible Hulk,Gen. Thaddeus Ross,15
+Captain America: Civil War,Gen. Thaddeus Ross,2.75
+Doctor Strange,Ancient One,17.25
+Avengers: Age Of Ultron,Ultron,16.75
+Ant-Man,Hope van Dyne,15.75
+Captain America: The First Avenger,Johann Schmidt,15.5
+Ant-Man,Darren Cross,14.5
+Avengers: Age Of Ultron,Vision,6.25
+Captain America: Civil War,Vision,7.25
+Doctor Strange,Christine Palmer,12.75
+Captain America: The Winter Soldier,Alexander Pierce,12.75
+Iron Man 3,Aldrich Killian,12
+Captain America: Civil War,T'Challa,11.5
+Iron Man,Ho Yinsen,10.75
+Iron Man 3,Ho Yinsen,0.25
+Captain America: The First Avenger,Arnim Zola,8.25
+Captain America: The Winter Soldier,Arnim Zola,2.25
+Captain America: The Winter Soldier,Pietro Maximoff,0.25
+Avengers: Age Of Ultron,Pietro Maximoff,10
+Spider-Man: Homecoming,Liz Allan,9.75
+Captain America: The First Avenger,Chester Phillips,9.25
+Iron Man 3,Maya Hansen,8.75
+Captain America: The Winter Soldier,Crossbones,6.25
+Captain America: Civil War,Crossbones,2.25
+Thor,Hogun,6.5
+Thor: The Dark World,Hogun,1
+Thor: Ragnarok,Hogun,0.75
+Captain America: The Winter Soldier,Sharon Carter,2.5
+Captain America: Civil War,Sharon Carter,5
+The Incredible Hulk,Samuel Sterns,7.5
+Ant-Man,Luis,7
+Guardians Of The Galaxy,Kraglin,1.75
+Guardians Of The Galaxy Vol. 2,Kraglin,4.75
+Thor: The Dark World,Algrim,6.25
+Thor: Ragnarok,Grandmaster,6
+Iron Man 3,Savin,6
+Iron Man,Christine Everhart,3.75
+Iron Man 2,Christine Everhart,1.5
+Ant-Man,Cassandra Lang,4.5
+Thor: The Dark World,The Collector,1.25
+Guardians Of The Galaxy,The Collector,2.5
+Thor: Ragnarok,Korg,3.75
+Thor,King Laufey,3.5
+Avengers: Age Of Ultron,Dr. Helen Cho,3.25
